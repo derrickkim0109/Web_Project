@@ -1,10 +1,10 @@
 # Web_Project_(MVC)
  @copyright :  김태현.도경진.정영재.박인영
  ### 시연 동영상 
-    https://www.youtube.com/watch?v=l81_BJJJbaQ&list=PLQMmGLiY4vSsomFYkfAk50WPZ3pxmWk4O&index=1
+   https://www.youtube.com/watch?v=l81_BJJJbaQ&list=PLQMmGLiY4vSsomFYkfAk50WPZ3pxmWk4O&index=1
 
  ### 이슈 탭에서 개발 화면을 확인할 수 있습니다. 
-    https://github.com/thlbyl0109/Web_Project/issues/3
+   https://github.com/thlbyl0109/Web_Project/issues/3
  
 # Main
  
