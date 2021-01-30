@@ -27,7 +27,8 @@
 
 # 1. STS Tool로 import 받는다 
   
-# 2. images폴더에서 있는 image 파일들을 Tomcat폴더의 /webapps/ROOT/ 안에 넣어야함. (이미지 불러오기 위해)
+# 2. 
+    images폴더에서 있는 image 파일들을 Tomcat폴더의 /webapps/ROOT/ 안에 넣어야함. (이미지 불러오기 위해)
 
 
 # 3.Tomcat jsp,image연동
