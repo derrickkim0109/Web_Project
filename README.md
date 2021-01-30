@@ -1,5 +1,5 @@
 # Web_Project_(MVC)
- @copyright :  김태현 , 도경진, 정영재, 박인영 
+ @copyright :  김태현.
  ### 시연 동영상 
     https://www.youtube.com/watch?v=l81_BJJJbaQ&list=PLQMmGLiY4vSsomFYkfAk50WPZ3pxmWk4O&index=1
 
