@@ -1,5 +1,5 @@
 # Web_Project_(MVC)
- @copyright :  김태현.
+ @copyright :  김태현.도경진.정영재.박인영
  ### 시연 동영상 
     https://www.youtube.com/watch?v=l81_BJJJbaQ&list=PLQMmGLiY4vSsomFYkfAk50WPZ3pxmWk4O&index=1
 
@@ -15,7 +15,7 @@
      
      
      
-     
+ # 인력 및 개발 조직도
      
  # 시스템 흐름도
    
@@ -23,6 +23,8 @@
  
  # ERD 
    <img src ="https://github.com/thlbyl0109/Web_Project/blob/main/document/ERD.png">
+   
+ # 
  
 
 # 1. STS Tool로 import 받는다 
