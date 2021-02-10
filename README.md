@@ -44,6 +44,6 @@
     -> STS의 경우 -> server tomcat 연결을 한후 -> 서버 폴더로 이동 -> upload 폴더 생성 해야함.( 이미지 업로드 폴더 생성을 위해)
 ****
 
-# 4.Mysql
+# 4.Mysql 
 
     dogNcat.sql 파일
