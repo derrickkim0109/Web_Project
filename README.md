@@ -13,12 +13,6 @@
   <img src ="https://github.com/thlbyl0109/Web_Project/blob/main/document/main.png">
      
      
-     
-     
- # 인력 및 개발 조직도
-      
-        
- <img src ="https://github.com/thlbyl0109/Web_Project/blob/main/document/ourteam.png">
  
  
  # 시스템 흐름도
